@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-prism",
+  "title": "Infinity Prism",
+  "emoji": "\ud83d\udd2e",
+  "purpose": "Splits research through the prism into component frequencies. Each frequency reveals hidden data.",
+  "tools": [
+    "Spectrum Analyzer",
+    "Frequency Split",
+    "Component Viewer",
+    "Recombine"
+  ],
+  "color": "#3f51b5",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
